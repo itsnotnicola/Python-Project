@@ -1,0 +1,32 @@
+Title:Rick and Morty
+Genre:Animation, Adventure, Comedy
+Year:2013–
+Runtime:23 min
+Director:N/A
+Awards:Won 2 Primetime Emmys. 18 wins & 37 nominations total
+Actors:Justin Roiland, Chris Parnell, Spencer Grammer
+
+Title:The Mandalorian
+Genre:Action, Adventure, Fantasy
+Year:2019–
+Runtime:40 min
+Director:N/A
+Awards:Won 14 Primetime Emmys. 58 wins & 122 nominations total
+Actors:Pedro Pascal, Chris Bartlett, Katee Sackhoff
+
+Title:The Book of Boba Fett
+Genre:Action, Adventure, Sci-Fi
+Year:2021–
+Runtime:N/A
+Director:N/A
+Awards:Won 1 Primetime Emmy. 4 wins & 12 nominations total
+Actors:Temuera Morrison, Ming-Na Wen, Frank Trigg
+
+Title:The Office
+Genre:Comedy
+Year:2005–2013
+Runtime:22 min
+Director:N/A
+Awards:Won 5 Primetime Emmys. 51 wins & 195 nominations total
+Actors:Steve Carell, Jenna Fischer, John Krasinski
+
